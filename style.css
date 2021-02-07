@@ -1,0 +1,119 @@
+body {
+	background-image: url("images/background.jpg") ;
+	background-size: cover;
+	width: 180%
+	height 180%
+	background-size: cover;
+	color: rgb(60,60,60);
+}
+
+
+}
+@media (max-width: 800px) {
+
+.container {
+width: 600px
+}
+}
+
+@media (max-width: 500px) {
+
+.container {
+width: 400px
+}
+
+}
+@media (max-width: 200px) {
+
+.container {
+width:100px
+}
+
+}
+
+
+.cardd-white{ width: 700px;     /* Fix the width first*/
+margin: 30px auto; /* Let CSS compute the same left & right margins automatically*/
+color: white
+}
+
+.yo2{
+	font-family: 'Barlow Semi Condensed', sans-serif;
+
+}
+.yo1{
+	font-family: 'Barlow Semi Condensed', sans-serif;
+margin: 20px
+}
+
+#winston{
+	width: 110px
+	
+}
+#lego{
+	width: 70px
+	
+}
+.img-frame{  border: 5px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+
+}
+
+
+
+h1{  
+	font-family: 'Righteous', cursive;
+	font-size: 
+	background: white ;                         /* White background */
+padding: 30px;                             /* Internal space */
+border-radius: 4px;                        /* Small radius */
+box-shadow: 0 10px 30px rgba(0,0,0,.1);    /* Light shadow */
+color: #868585
+ }
+h2{
+	color: #C0B8B8;
+	font-family: 'Bebas Neue', cursive; ;
+ font-style: italic;
+}
+h3{
+
+	font-family: 'Bebas Neue', cursive; ;
+}
+p {
+	font-family: 'Barlow Semi Condensed', sans-serif;
+
+}
+
+
+a {
+  color:#3D3D3D ;
+  text-decoration: none;
+  transition: color 0.7s ease;
+}
+a:hover {
+  color:#F4F0F1 ;
+  text-decoration: none;
+}
+
+
+}
+
+ul{
+	font-family: 'Barlow Semi Condensed', sans-serif;
+
+}
+
+
+
+.list-horizontale{
+	list-style: none;
+	padding-left: 50px auto
+
+}
+.list-horizontale li {
+display: inline;
+padding: 100px auto
+}
+
